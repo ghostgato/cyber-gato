@@ -1,4 +1,4 @@
-# Hi I'm Spaceghost 🚀👻
+# Hi I'm Cybergato :smirk_cat: 👻
 
 ## 💫 About Me:
 🎓 Working on my BS in Computer Science with Arizona State University.<br>🧑‍💻 Actively programming in C & Python<br>🖥️ Currently working as a cyber professional as a developer <br>🛰️ Thorough experience as a network technician, specializing in Satellite Communications<br>🤝 Looking to collaborate with any small projects<br>
@@ -6,9 +6,9 @@
 #### 🌱 Actively learning:
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java&theme=dark)](https://skillicons.dev)
-__________________________________________________________________
 
 ## 💻 Tech Stack:
+
 ##### Code:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ##### Networking & Cyber Security:
