@@ -1,7 +1,7 @@
 # Hi I'm GhostGato :smirk_cat: 👻
 
 ## 💫 About Me:
-🎓 Working on my BS in Computer Science with Arizona State University.<br>🧑‍💻 Actively programming in C & Python<br>🖥️ Currently working as a cyber professional as a developer <br>🛰️ Thorough experience as a network technician, specializing in Satellite Communications<br>🤝 Looking to collaborate with any small projects<br>
+🎓 Working on my BS in Computer Science with Arizona State University.<br>🧑‍💻 Actively programming in C & Python<br>🖥️ Currently working as a cyber professional as a developer <br>🛰️ Thorough background experience as a network technician, specializing in Satellite Communications<br>🤝 Looking to collaborate with any small projects<br>
 
 #### 🌱 Actively learning:
 
